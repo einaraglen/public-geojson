@@ -1,17 +1,21 @@
-import express from "express"
-// @ts-ignore
-import pipelines from "./assets/pipelines.csv"
+import express from 'express'
+import { version } from '../package.json'
+import { normal } from './tools/normal'
+import { pipelines } from './tools/pipelines'
+import { turbines } from './tools/turbines'
+const app = express()
+const PORT = 8080
 
-const app = express();
-const port = 8080; // default port to listen
+app.get('/', (req: any, res: any) => res.send(`Public Geo JSON v${version}`))
 
-// define a route handler for the default home page
-app.get( "/", (req: any, res: any) => {
-    console.log(pipelines)
-    res.send( "Hello world! fittur tuttir asd" );
-} );
+app.get('/pipelines', (req: any, res: any) => pipelines().then((data) => res.send(data)))
 
-// start the Express server
-app.listen( port, () => {
-    console.log( `server started at http://localhost:${ port }` );
-} );
+app.get('/turbines', (req: any, res: any) => turbines().then((data) => res.send(data)))
+
+app.get('/terminals', (req: any, res: any) => normal('terminals.csv').then((data) => res.send(data)))
+
+app.get('/extract', (req: any, res: any) => normal('extract.csv').then((data) => res.send(data)))
+
+app.listen(PORT, () => {
+  console.log(`public-geosjon@${version} - listening at PORT ${PORT}`)
+})
