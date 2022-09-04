@@ -16,6 +16,6 @@ app.get('/terminals', (req: any, res: any) => normal('terminals.csv').then((data
 
 app.get('/extract', (req: any, res: any) => normal('extract.csv').then((data) => res.send(data)))
 
-app.listen(PORT, () => {
-  console.log(`public-geosjon@${version} - listening at PORT ${PORT}`)
+app.listen(process.env.PORT || PORT, () => {
+  console.log(`public-geosjon@${version} - listening at PORT ${process.env.PORT || PORT}`)
 })
