@@ -32,7 +32,16 @@ export const pipelines = () => {
           return { type: 'Feature', properties: { ...getProperties(data) }, geometry: { type: 'LineString', coordinates: points } }
         }
       },
-      onComplete: (features: any) => resolve({ type: 'FeatureCollection', features }),
+      onComplete: (features: any) => {
+        const offshore = features.filter((item: any) => {
+          const properties = item.properties
+          const key = properties["StartState/Province"] + properties["EndState/Province"] + properties["OtherNames"] + properties["StartCountry"] + properties["EndCountry"];
+          if (typeof key !== "string") return false;
+          const lower = key.toLowerCase();
+          return lower.includes("sea") || lower.includes("offshore") || lower.includes("norway") || lower.includes("norwegian");
+        });
+        resolve({ type: 'FeatureCollection', features: offshore })
+      } ,
     })
   })
 }
