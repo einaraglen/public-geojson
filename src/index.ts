@@ -4,11 +4,14 @@ import { normal } from "./tools/normal";
 import { pipelines } from "./tools/pipelines";
 import { turbines } from "./tools/turbines";
 import dotenv from "dotenv";
+import cors from "cors"
 
 dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+
+app.use(cors({ origin: "*" }))
 
 const routes = ["pipelines", "turbines", "terminals", "extracts"];
 
