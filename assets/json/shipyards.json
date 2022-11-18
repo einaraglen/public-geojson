@@ -1,0 +1,2762 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "title": "LYON SHIPYARD.INC" },
+      "geometry": { "type": "Point", "coordinates": [-76.269241, 36.842934] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO Dalian Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [121.712242, 39.026581] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Pharung Shipyard Vietnam" },
+      "geometry": { "type": "Point", "coordinates": [106.688087, 20.844912] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Durres-Gdansk Shipyard S.A." },
+      "geometry": { "type": "Point", "coordinates": [19.456469, 41.324589] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chernomorsk Shiprepair Yard  (ex Ilyichevsk) Ukraine"
+      },
+      "geometry": { "type": "Point", "coordinates": [30.705902, 46.424332] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ceksan Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [29.304707, 40.855629] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Intermarine Rodriquez Cantieri Naval Italy" },
+      "geometry": { "type": "Point", "coordinates": [15.569585, 38.19025] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Torshavnar Skipasmidja PF" },
+      "geometry": { "type": "Point", "coordinates": [-6.776786, 62.006241] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Rousse Shipyard WEST J.S.C" },
+      "geometry": { "type": "Point", "coordinates": [25.939102, 43.836159] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TEREM - KRZ Flotski Arsenal Varna\" LTD" },
+      "geometry": { "type": "Point", "coordinates": [27.897839, 43.206493] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Daeyang Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [121.845093, 38.96859] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Israel Shipyards Ltd. (ISL)" },
+      "geometry": { "type": "Point", "coordinates": [35.044567, 32.816757] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Shipyard Izola p.l.c." },
+      "geometry": { "type": "Point", "coordinates": [13.664058, 45.539696] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Qingao Beihai Shipbuilding Heavy Industry Co."
+      },
+      "geometry": { "type": "Point", "coordinates": [120.241966, 35.965542] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Slovenské lodenice Komárno" },
+      "geometry": { "type": "Point", "coordinates": [18.126957, 47.756168] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Repnaval Shipards Las Palmas de Gran Canaria" },
+      "geometry": { "type": "Point", "coordinates": [-15.415594, 28.155094] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhoushan IMC-YongYue Shipyard & Engineering Co.,Ltd"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.312843, 29.94215] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HIDRODINAMIK SHIPYARD Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.266699, 40.840229] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "YARDGEM Denizcilik A.S Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.267626, 40.839657] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Irving Shipbuilding Inc." },
+      "geometry": { "type": "Point", "coordinates": [-63.592262, 44.662937] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sembcorp Marine Admiralty Yard" },
+      "geometry": { "type": "Point", "coordinates": [103.82399, 1.45883] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "IHI SHIPBUILDERS SHIPYARDS" },
+      "geometry": { "type": "Point", "coordinates": [139.78183, 35.663589] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BOURGAS SHIPYARDS JSC Bourgas Bulgaria" },
+      "geometry": { "type": "Point", "coordinates": [27.431461, 42.471115] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Nico International U.A.E." },
+      "geometry": { "type": "Point", "coordinates": [55.02729, 24.985716] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "A&B Industries" },
+      "geometry": { "type": "Point", "coordinates": [-91.101807, 29.681713] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "AKER PHILADELPHIA SHIPYARD" },
+      "geometry": { "type": "Point", "coordinates": [-75.187531, 39.889122] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "JSC Tosmare Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [21.030317, 56.552219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASIMAR Asian Marine Services Public Co., Ltd."
+      },
+      "geometry": { "type": "Point", "coordinates": [100.507111, 13.530042] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "WESTERN INDIA SHIPYARD LTD" },
+      "geometry": { "type": "Point", "coordinates": [73.805511, 15.404083] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Modest Infrastructure Limited" },
+      "geometry": { "type": "Point", "coordinates": [72.151932, 21.764473] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Cochin Shipyard Limited (CSL) India" },
+      "geometry": { "type": "Point", "coordinates": [76.289909, 9.953165] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTICAN ASTILLEROS CANARIOS S.A" },
+      "geometry": { "type": "Point", "coordinates": [-15.412204, 28.155834] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CIC China Shipping Industry Co., Ltd. Lixin Shipyard"
+      },
+      "geometry": { "type": "Point", "coordinates": [121.475433, 31.131943] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Energomontaz Polnoc Gdynia Sp.zoo ex Gdynia Poland"
+      },
+      "geometry": { "type": "Point", "coordinates": [18.444021, 54.556965] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Curacao Drydock Company, Inc. Dammers Group" },
+      "geometry": { "type": "Point", "coordinates": [-68.882423, 12.122422] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Fong Kuo Ching Fu Shipbuilding Co., Ltd." },
+      "geometry": { "type": "Point", "coordinates": [120.301437, 22.627277] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guang Dong Hope Yue Shipbuilding Industry Limited"
+      },
+      "geometry": { "type": "Point", "coordinates": [113.267517, 23.126751] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO Nantong Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [120.837791, 32.00042] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Esbjerg Shipyard A/S Denmark" },
+      "geometry": { "type": "Point", "coordinates": [8.411024, 55.479176] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DORMAC Cape Town and DORMAC Saldanha Bay" },
+      "geometry": { "type": "Point", "coordinates": [17.985302, -32.985226] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ALLEN MARINE INC." },
+      "geometry": { "type": "Point", "coordinates": [-135, 56.997372] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "AUSTAL" },
+      "geometry": { "type": "Point", "coordinates": [-88.031952, 30.693298] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arab Heavy Industries P.J.S.C” (AHI) Keppel Group"
+      },
+      "geometry": { "type": "Point", "coordinates": [55.513641, 25.405216] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Alaska Ship & Drydock, Inc. (ASD)" },
+      "geometry": { "type": "Point", "coordinates": [-131.646118, 55.34222] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Astilleros Ria de Aviles" },
+      "geometry": { "type": "Point", "coordinates": [-5.928752, 43.565292] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ALL AMERICAN MARINE, INC." },
+      "geometry": { "type": "Point", "coordinates": [-122.512177, 48.719975] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Torlak Shipyard Tuzla Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.283091, 40.82502] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "EURO-CYNK GDYNIA Sp. z o.o. Poland" },
+      "geometry": { "type": "Point", "coordinates": [18.53054, 54.51889] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SJSCo SRC SEVMORSUDOREMONT - UCRAINE" },
+      "geometry": { "type": "Point", "coordinates": [33.525368, 44.61665] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Victoria Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [-123.419952, 48.437222] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Hispaniola Maritime Repair Services, SRL" },
+      "geometry": { "type": "Point", "coordinates": [-69.912392, 18.459541] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Hindustan Shipyard Ltd Visakhapatnam India" },
+      "geometry": { "type": "Point", "coordinates": [83.261742, 17.681547] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CATIC Shipbuilding China" },
+      "geometry": { "type": "Point", "coordinates": [119.412689, 32.393581] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barthels+Lüders Division of Blohm + Voss Repair GmbH Germany"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.002386, 53.540722] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Navtech S.A. Shipyards Colombia" },
+      "geometry": { "type": "Point", "coordinates": [-75.515854, 10.386429] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "EISA - Estaleiro Ilha S.A." },
+      "geometry": { "type": "Point", "coordinates": [-43.19075, -22.79653] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TANDANOR S.A.C.I. y N" },
+      "geometry": { "type": "Point", "coordinates": [-58.346157, -34.62466] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Servicios Industriales De La Marine S.A.(SIMA Peru SA)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.137772, -12.034512] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ENAVI & RENAVE" },
+      "geometry": { "type": "Point", "coordinates": [-43.110462, -22.877453] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COLONNA'S SHIPYARD" },
+      "geometry": { "type": "Point", "coordinates": [-76.276054, 36.835445] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ATLANTIC DRY DOCK" },
+      "geometry": { "type": "Point", "coordinates": [-81.459274, 30.392218] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SATRASER SAIGON XANH TRADING & SERVICE" },
+      "geometry": { "type": "Point", "coordinates": [106.691841, 10.757019] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "THALES AUSTRALIA" },
+      "geometry": { "type": "Point", "coordinates": [151.282852, -33.845009] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Flanders Ship Repair Belgium" },
+      "geometry": { "type": "Point", "coordinates": [3.201008, 51.326401] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Groupe Maritime Verreault Quebec  Canada" },
+      "geometry": { "type": "Point", "coordinates": [-66.980881, 48.99865] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BRODOSPLIT SHIPYARD Split, Croatia" },
+      "geometry": { "type": "Point", "coordinates": [16.441923, 43.52182] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ESTALEIRO MAUA" },
+      "geometry": { "type": "Point", "coordinates": [-43.128719, -22.877516] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ORSKOV YARD A/S · DENMARK" },
+      "geometry": { "type": "Point", "coordinates": [10.541407, 57.437935] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SRC GROUP Ltd. Estonia" },
+      "geometry": { "type": "Point", "coordinates": [24.670828, 59.460892] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HYUNDAI HEAVY INDUSTRIES" },
+      "geometry": { "type": "Point", "coordinates": [129.311356, 35.538376] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTILLEROS DEL CARIBE CUBA HAVANA" },
+      "geometry": { "type": "Point", "coordinates": [-82.362625, 23.124037] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HELLENIC SHIPYARDS S.A Greece" },
+      "geometry": { "type": "Point", "coordinates": [23.599436, 38.005344] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SALAMIS SHIPYARDS S.A. Greece" },
+      "geometry": { "type": "Point", "coordinates": [23.528023, 37.951057] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BLOHM + VOSS REPAIR GMBH Germany" },
+      "geometry": { "type": "Point", "coordinates": [9.96567, 53.53957] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HANJIN HEAVY INDUSTRIES - SUBIC BAY SHIPYARD (HHIC PHIL)"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.208878, 14.844243] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Odessos Shiprepair Yard S.A. i. Varna  Bulgaria"
+      },
+      "geometry": { "type": "Point", "coordinates": [27.90188, 43.204937] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Heavy Engineering Industries & Shipbuilding Co.(KSC) (HEISCO)"
+      },
+      "geometry": { "type": "Point", "coordinates": [47.94706, 29.334003] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EASTERN SHIPBUILDING GROUP / ALLANTON SHIPYARD"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.476631, 30.042189] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "African Marine & General Engineering Co. Ltd. Kenya Shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.662247, -4.06126] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ADELAIDE SHIP CONSTRUCTION INTERNATIONAL PTY LTD (ASCI) (HEAD OFFICE), AUSTRALIA"
+      },
+      "geometry": { "type": "Point", "coordinates": [138.520966, -34.813316] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Detyens Shipyards, Inc. (DSI)" },
+      "geometry": { "type": "Point", "coordinates": [-79.965736, 32.860565] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BAE Systems Norfolk Ship Repair" },
+      "geometry": { "type": "Point", "coordinates": [-76.290611, 36.832424] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BAE Systems San Francisco Ship Repair" },
+      "geometry": { "type": "Point", "coordinates": [-122.394295, 37.760162] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BAE Systems Southeast Shipyards Mobile, Alabama"
+      },
+      "geometry": { "type": "Point", "coordinates": [-88.031059, 30.684072] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BAE Systems’ Hawaii Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [-157.96344, 21.349346] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bollinger Texas City, LP" },
+      "geometry": { "type": "Point", "coordinates": [-94.893661, 29.366848] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "AMASCO DUBAI SHIPREPAIRS" },
+      "geometry": { "type": "Point", "coordinates": [55.270782, 25.204849] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BREDO - Bremerhavener Dock GmbH Germany" },
+      "geometry": { "type": "Point", "coordinates": [8.582731, 53.501434] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Signal Ship Repair Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-88.039742, 30.677977] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Imabari Shipbuilding Co.,Ltd. Head Office Japan"
+      },
+      "geometry": { "type": "Point", "coordinates": [132.972672, 34.109814] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Santierul Naval Constanta Shipyard Romania" },
+      "geometry": { "type": "Point", "coordinates": [28.660376, 44.096878] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ciramar Shipyards International Trading, Ltd. Dominican Republic"
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.931213, 18.486057] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ciramar Shipyards International Trading, Ltd."
+      },
+      "geometry": { "type": "Point", "coordinates": [-69.941635, 18.46596] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "A&P Group Tees Shipyard England" },
+      "geometry": { "type": "Point", "coordinates": [-1.184771, 54.585011] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "A&P Group Falmouth Shipyard England" },
+      "geometry": { "type": "Point", "coordinates": [-5.057498, 50.151199] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Aas Mek Verksted A/S Shipyard Norway" },
+      "geometry": { "type": "Point", "coordinates": [7.077118, 62.612598] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Oman Drydock Company S.A.O.C." },
+      "geometry": { "type": "Point", "coordinates": [58.5401, 23.597469] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CSSC Guangzhou Wenchong Shipyard co LTD" },
+      "geometry": { "type": "Point", "coordinates": [113.474388, 23.093719] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Qingdao Beihai Shipbuilding Heavy Industry Co., Ltd. (BSIC)"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.405197, 36.070782] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Assens SHIPYARD Ltd Denmark" },
+      "geometry": { "type": "Point", "coordinates": [9.88925, 55.268799] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CASTLE HOLDINGS LLC (Zaliv Shipyard Ukraine)" },
+      "geometry": { "type": "Point", "coordinates": [30.723309, 46.482525] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ocean Industries Shipyards Canada" },
+      "geometry": { "type": "Point", "coordinates": [-70.389397, 47.420795] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Navantia Fene Ferrol Shipyards Spain" },
+      "geometry": { "type": "Point", "coordinates": [-8.219345, 43.489647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bulyard Shipbuilding Industry EAD Varna Bulgaria"
+      },
+      "geometry": { "type": "Point", "coordinates": [27.894554, 43.202644] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weihai Huadong Ship Repair Co., Ltd Shipyards China"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.56237, 37.250679] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NAVIKON Shipyard Poland" },
+      "geometry": { "type": "Point", "coordinates": [14.285044, 53.89183] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Longueville NV Shiprepairs Anwerp Belgium" },
+      "geometry": { "type": "Point", "coordinates": [4.466378, 51.240391] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Daishan Haizhou Shipyard China" },
+      "geometry": { "type": "Point", "coordinates": [122.069122, 30.29871] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASL Shipyard Pte Ltd Batam Indonesia" },
+      "geometry": { "type": "Point", "coordinates": [104.052917, 1.130078] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PPL Shipyard Pte Ltd. Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.749825, 1.298022] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Jurong SML Pte Ltd Shipyard Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.684128, 1.306436] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO (Lianyungang) Shipyard China" },
+      "geometry": { "type": "Point", "coordinates": [119.338943, 34.759739] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO Shipyard Shanghai China" },
+      "geometry": { "type": "Point", "coordinates": [121.473701, 31.230415] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PT. SURYA PRIMA BAHTERA Shipyard Indonesia" },
+      "geometry": { "type": "Point", "coordinates": [104.134529, 1.08482] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ABG Shipyard India" },
+      "geometry": { "type": "Point", "coordinates": [72.757423, 21.143492] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ALCOCK ASHDOWN (GUJARAT) LTD India" },
+      "geometry": { "type": "Point", "coordinates": [72.149193, 21.793291] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Pipavav Shipyard India" },
+      "geometry": { "type": "Point", "coordinates": [71.534187, 21.012074] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "RATNAGIRI SHIPYARD INDIA" },
+      "geometry": { "type": "Point", "coordinates": [73.286423, 17.00153] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HYUNDAI VINASHIN SHIPYARD CO LTD, VIETNAM" },
+      "geometry": { "type": "Point", "coordinates": [109.287697, 12.484046] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bharati Shipyard Limited Mumbai Ghodbunder India"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.89045, 19.293474] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bharati Shipyard Kolkata India" },
+      "geometry": { "type": "Point", "coordinates": [88.327133, 22.564219] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bharati Shipyard Dabhol India" },
+      "geometry": { "type": "Point", "coordinates": [73.196915, 17.602077] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bharati Shipyard Mangalore India" },
+      "geometry": { "type": "Point", "coordinates": [74.817299, 12.874638] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chowgule & Company Shipyard India" },
+      "geometry": { "type": "Point", "coordinates": [74.002899, 15.349438] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Garden Reach Shipyard India" },
+      "geometry": { "type": "Point", "coordinates": [88.283478, 22.550402] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Mazagon Dock Limited India" },
+      "geometry": { "type": "Point", "coordinates": [72.844467, 18.967794] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SLIPPURINN AKUREYRI" },
+      "geometry": { "type": "Point", "coordinates": [-18.090687, 65.682549] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "STX Norway Florø AS Norway shipyard" },
+      "geometry": { "type": "Point", "coordinates": [5.048859, 61.600937] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ulstein Verft As Norway" },
+      "geometry": { "type": "Point", "coordinates": [5.82279, 62.34146] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ESTALEIRO MAUA, SHIPYARD BRAZIL" },
+      "geometry": { "type": "Point", "coordinates": [-43.128719, -22.877516] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Mumbai Port Trust Drydocks India" },
+      "geometry": { "type": "Point", "coordinates": [72.844162, 18.948288] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Goa Shipyard Limited (GSL)  India" },
+      "geometry": { "type": "Point", "coordinates": [73.811325, 15.398195] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Naval Rocha Shipyards Lisboa Portugal" },
+      "geometry": { "type": "Point", "coordinates": [-9.162351, 38.703152] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "West Atlantic Shipyard Nigeria" },
+      "geometry": { "type": "Point", "coordinates": [6.974604, 4.847223] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "LOŠINJSKA PLOVIDBA - BRODOGRADILIŠTE d.o.o." },
+      "geometry": { "type": "Point", "coordinates": [14.462543, 44.543213] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Yiu Lian Dockyards（Shekou）Limited" },
+      "geometry": { "type": "Point", "coordinates": [113.908188, 22.51376] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CIC China Shipping Industry (Shanghai Changxing) Co"
+      },
+      "geometry": { "type": "Point", "coordinates": [121.681793, 31.405022] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SHGSIC Shanhaiguan Shipbuilding Industry Co" },
+      "geometry": { "type": "Point", "coordinates": [119.59964, 39.935452] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "VIKTOR LENAC SHIPYARD Rijeka, Croatia" },
+      "geometry": { "type": "Point", "coordinates": [14.477093, 45.315151] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SOCIBER Sociedad Iberoamericana de Reparaciones Navales Ltda. Chile"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.623482, -33.042191] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MTG-DOLPHIN PLC · Varna · Bulgaria" },
+      "geometry": { "type": "Point", "coordinates": [27.915005, 43.199768] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "FAYARD A/S Denmark" },
+      "geometry": { "type": "Point", "coordinates": [10.534028, 55.454548] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PNG Cutrain Bros Papua New Guinea Limited." },
+      "geometry": { "type": "Point", "coordinates": [147.200012, -9.472347] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MARINA BARCELONA 92, S.A. Spain" },
+      "geometry": { "type": "Point", "coordinates": [2.186085, 41.381226] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Shipyard Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.640518, 1.315464] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASTILLEROS DE SANTANDER S.A. ( ASTANDER ) Spain"
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.818612, 43.403908] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tricontinental Oil Services Limited DAMAGIX YARD"
+      },
+      "geometry": { "type": "Point", "coordinates": [3.396848, 6.45237] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Keppel Verolme BV" },
+      "geometry": { "type": "Point", "coordinates": [4.285453, 51.894474] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shiprepair Vlissingen The Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [3.671874, 51.46059] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MEGATECHNICA LTD Greece" },
+      "geometry": { "type": "Point", "coordinates": [23.57206, 37.962734] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TALLINN SHIPYARD Estonia - BLRT Grupp" },
+      "geometry": { "type": "Point", "coordinates": [24.664322, 59.461033] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Naval Shipyard S.A. Gdynia Stocznia Poland" },
+      "geometry": { "type": "Point", "coordinates": [18.53989, 54.54137] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "AUSTAL" },
+      "geometry": { "type": "Point", "coordinates": [115.767502, -32.144794] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO Guangzhou (Guang Dong) Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [113.266273, 23.13171] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CIC China Shipping Industry (Guangzhou) Co., Ltd. Boluomiao Shipyard"
+      },
+      "geometry": { "type": "Point", "coordinates": [113.5383, 23.091789] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GERMAN DRYDOCKS ex Rickmers Lloyd Dockbetrieb GmbH Germany"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.55766, 53.562302] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Zhoushan XinYa Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [122.122192, 29.745251] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vigor Shipyards Portland (formerly Todd Pacific Shipyards)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.720871, 45.565517] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ALEXANDRIA SHIPYARD Egypt" },
+      "geometry": { "type": "Point", "coordinates": [29.918739, 31.200092] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Falkvarv AB  Sweden Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [12.487293, 56.893253] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DALES MARINE SERVICES ABERDEEN UK" },
+      "geometry": { "type": "Point", "coordinates": [-2.075487, 57.144997] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ZAMAKONA Shipyard Bilbao" },
+      "geometry": { "type": "Point", "coordinates": [-3.030301, 43.330128] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhoushan Asia Pacific Dockyard Co., Ltd AP Dockyard China"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.240997, 29.755871] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vigor Shipyards Seattle, WA" },
+      "geometry": { "type": "Point", "coordinates": [-122.355469, 47.585701] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vigor Shipyards Ketchikan, Alaska" },
+      "geometry": { "type": "Point", "coordinates": [-131.699631, 55.358929] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vigor Shipyards Everett, Washington" },
+      "geometry": { "type": "Point", "coordinates": [-122.218971, 47.981152] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Keppel Philippines Marine Subic Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [120.236633, 14.896794] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Keppel Philippines Marine Batangas Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [121.058311, 13.756465] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BAE Systems Southeast Shipyards Jacksonville" },
+      "geometry": { "type": "Point", "coordinates": [-81.459274, 30.392218] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Hongkong United Dockyards  HUD" },
+      "geometry": { "type": "Point", "coordinates": [114.102318, 22.347486] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CMR Tunisia Ship Repairs" },
+      "geometry": { "type": "Point", "coordinates": [9.7846, 37.143238] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Morska Stocznia Remontowa Gryfia S.A. Poland" },
+      "geometry": { "type": "Point", "coordinates": [14.583408, 53.450588] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Oresund Drydocks Sweden" },
+      "geometry": { "type": "Point", "coordinates": [12.839337, 55.855316] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Metalships & Docks S.A." },
+      "geometry": { "type": "Point", "coordinates": [-8.684815, 42.253784] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTILLERO RIO SANTIAGO (ARS)" },
+      "geometry": { "type": "Point", "coordinates": [-58.376137, -34.603622] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Lloyd Werft Bremerhaven GmbH Germany" },
+      "geometry": { "type": "Point", "coordinates": [8.557964, 53.572845] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Tampa Ship, LLC Usa Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [-82.444206, 27.926363] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Grand Bahama Shipyard Limited" },
+      "geometry": { "type": "Point", "coordinates": [-78.642899, 26.533316] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Grand Bahama Shipyard Limited" },
+      "geometry": { "type": "Point", "coordinates": [-78.642899, 26.533316] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chittagong Dry Dock Limited Bangladesh" },
+      "geometry": { "type": "Point", "coordinates": [91.825661, 22.250006] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "FMC Dockyard  Chittagong Bangladesh" },
+      "geometry": { "type": "Point", "coordinates": [91.917252, 22.379107] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Naval Rocha Shipyard Portugal" },
+      "geometry": { "type": "Point", "coordinates": [-9.162351, 38.703152] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Albwardy Marine Engineering" },
+      "geometry": { "type": "Point", "coordinates": [56.363533, 25.172775] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Costruzioni Arsenale di Venezia Scarl (C.A.V. Scarl) Italy"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.359124, 45.437187] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sembmarine Kakinada Ltd (SKL) India" },
+      "geometry": { "type": "Point", "coordinates": [82.274254, 16.971024] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Yiu Lian Dockyards (ZESCO) Zhoushan" },
+      "geometry": { "type": "Point", "coordinates": [122.280647, 30.473249] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Cantieri del Mediterraneo S.p.a. Italy" },
+      "geometry": { "type": "Point", "coordinates": [14.273052, 40.845547] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shiprepair Brest France" },
+      "geometry": { "type": "Point", "coordinates": [-4.459617, 48.387138] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damen Maaskant Shipyards Stellendam The Netherlands"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.04201, 51.818874] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shipyards Cape Town South Africa" },
+      "geometry": { "type": "Point", "coordinates": [18.421671, -33.92112] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HRDD HUARUN DADONG SHIPYARD (CENTRAL CHINA)" },
+      "geometry": { "type": "Point", "coordinates": [121.537781, 31.55732] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhangjiagang Jiu Sheng Shipyard Co.,Ltd. China"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.426292, 31.93462] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Oskarshamnsvarvet Sweden Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [16.468676, 57.261784] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damen Shiprepair Rotterdam The Netherlands Shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.383488, 51.90472] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damen Shiprepair Amsterdam The Netherlands Shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.882965, 52.40873] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damen Shiprepair Van Brink Rotterdam The Netherlands Shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.399339, 51.88723] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shipyards Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.642853, 1.314336] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damen Shiprepair Oranjewerf Amsterdam The Netherlands Shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.948869, 52.385578] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shipyards Sharjah (DSSH)" },
+      "geometry": { "type": "Point", "coordinates": [55.421093, 25.346155] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SOBRENA SHIPYARDS France" },
+      "geometry": { "type": "Point", "coordinates": [-4.459617, 48.387138] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "FORGACS CAIRNCROSS DOCKYARD" },
+      "geometry": { "type": "Point", "coordinates": [151.765259, -32.918732] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ESTALEIROS SERMETAL LTD  Rio de Janeiro - Brazil"
+      },
+      "geometry": { "type": "Point", "coordinates": [-43.212891, -22.876274] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "General Dynamics NASSCO" },
+      "geometry": { "type": "Point", "coordinates": [-117.133553, 32.690056] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Nordic Yards Germany" },
+      "geometry": { "type": "Point", "coordinates": [11.439848, 53.898308] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NEPTUN WERFT GmbH & Co. KG Germany" },
+      "geometry": { "type": "Point", "coordinates": [12.087546, 54.161289] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chantier Davie Canada Inc" },
+      "geometry": { "type": "Point", "coordinates": [-71.165977, 46.828876] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PREGOL Shiprepair Yard Kaliningrad, Russia" },
+      "geometry": { "type": "Point", "coordinates": [20.452213, 54.710426] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iran Shipbuilding & Offshore Industries Complex co . ISOICO"
+      },
+      "geometry": { "type": "Point", "coordinates": [56.288364, 27.196255] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harland and Wolff  Northern Ireland. United Kingdom"
+      },
+      "geometry": { "type": "Point", "coordinates": [-5.934049, 54.584408] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Shipyard Reimerswaal The Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [4.008009, 51.456036] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Yiu Lian Dockyards Limited Hong Kong" },
+      "geometry": { "type": "Point", "coordinates": [114.093208, 22.338976] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PALUMBO MARSEILLE SUPERYACHTS ITM" },
+      "geometry": { "type": "Point", "coordinates": [5.380868, 43.287582] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTILLEROS DE MURUETA Spain" },
+      "geometry": { "type": "Point", "coordinates": [-2.683478, 43.360813] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PSC TEMA SHIPYARD LIMITED Ghana" },
+      "geometry": { "type": "Point", "coordinates": [0.025228, 5.651497] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TSAKOS INDUSTRIAS NAVALES S.A." },
+      "geometry": { "type": "Point", "coordinates": [-56.193153, -34.892963] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HES-TDL Shipyard Hungary" },
+      "geometry": { "type": "Point", "coordinates": [19.073229, 47.561863] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CHANTIERS ET ATELIERS DU MAROC, MOROCCO" },
+      "geometry": { "type": "Point", "coordinates": [-7.613921, 33.600529] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BAE Systems San Diego Bay Ship Repair" },
+      "geometry": { "type": "Point", "coordinates": [-117.144028, 32.692841] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASTINAVE - ASTILLEROS NAVALES ECUATORIANOS, Ecuador"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.995819, -2.109238] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Oceania Marine’s Shipyards New Zealand" },
+      "geometry": { "type": "Point", "coordinates": [174.345352, -35.742851] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Karachi Shipyard & Engineering Works Limited Pakistan"
+      },
+      "geometry": { "type": "Point", "coordinates": [66.984383, 24.844484] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Oceania Marine’s Shipyards New Zealand" },
+      "geometry": { "type": "Point", "coordinates": [174.345352, -35.742851] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Brattvaag Shipbuilding Norway" },
+      "geometry": { "type": "Point", "coordinates": [6.445907, 62.590645] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Niteroi SA Shipyards Brazil" },
+      "geometry": { "type": "Point", "coordinates": [-43.115887, -22.86767] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Tulcea SA Shipyards Romania" },
+      "geometry": { "type": "Point", "coordinates": [28.784916, 45.187424] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Promar Shipbuilding Brazil" },
+      "geometry": { "type": "Point", "coordinates": [-35.016834, -8.554428] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Aukra Shipbuilding Norway" },
+      "geometry": { "type": "Point", "coordinates": [6.904166, 62.818699] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Brevik Shipbuilding Norway" },
+      "geometry": { "type": "Point", "coordinates": [9.688457, 59.054615] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Søviknes Shipbuilding Shipyard Norway" },
+      "geometry": { "type": "Point", "coordinates": [6.278917, 62.547455] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Langsten Shipbuilding Norway" },
+      "geometry": { "type": "Point", "coordinates": [6.932102, 62.585045] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Vung Tau Ltd Shipbuilding Vietnam" },
+      "geometry": { "type": "Point", "coordinates": [107.11792, 10.400024] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gemak Shipyard Turkey Tuzla" },
+      "geometry": { "type": "Point", "coordinates": [29.284727, 40.834679] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Group AS Shipbuilding Norway" },
+      "geometry": { "type": "Point", "coordinates": [6.15311, 62.475327] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Vard Braila SA Shipyards Romania" },
+      "geometry": { "type": "Point", "coordinates": [27.964506, 45.246628] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Namibia Drydock and Ship Repair (Pty) Ltd  NAMDOCK"
+      },
+      "geometry": { "type": "Point", "coordinates": [14.505342, -22.945482] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTILLEROS CERNAVAL MALAGA SHIPYARD SPAIN" },
+      "geometry": { "type": "Point", "coordinates": [-5.375634, 36.177914] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "EBH Elgin Brown and Hamer Durban" },
+      "geometry": { "type": "Point", "coordinates": [31.000313, -29.892696] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TSUNEISHI SHIPBUILDING Co., Ltd Japan" },
+      "geometry": { "type": "Point", "coordinates": [133.319809, 34.39867] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cameroon Shipyard and Industrial Engineering LTD"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.767869, 4.051056] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Dammam Shipyard Saudi Arabia" },
+      "geometry": { "type": "Point", "coordinates": [50.187534, 26.459211] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MIK Shipyard JSCo" },
+      "geometry": { "type": "Point", "coordinates": [33.525368, 44.61665] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damex Shipbuilding & Engineering Cuba" },
+      "geometry": { "type": "Point", "coordinates": [-75.830154, 20.01693] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CIC Zhangjiagang Jiu Sheng Shipyard Co." },
+      "geometry": { "type": "Point", "coordinates": [119.196693, 34.601215] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Afai Southern CIC Shipyard (Panyu Guangzhou) Ltd."
+      },
+      "geometry": { "type": "Point", "coordinates": [113.308121, 23.024269] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO （Qidong） Offshore CO China" },
+      "geometry": { "type": "Point", "coordinates": [121.446899, 31.796471] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DSIC Marine Services Co. Ltd. China shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [121.523483, 39.600182] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "COSCO Shipyard Group China" },
+      "geometry": { "type": "Point", "coordinates": [121.6147, 38.91399] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CIC China Shipping Industry Co China" },
+      "geometry": { "type": "Point", "coordinates": [121.078201, 31.21702] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Cotecmar Shipyard - Colombia" },
+      "geometry": { "type": "Point", "coordinates": [-75.550598, 10.421592] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Western Marine Shipyard Bangladesh" },
+      "geometry": { "type": "Point", "coordinates": [91.885506, 22.316914] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Grandweld Shipyards Jadaf Fujairah UAE" },
+      "geometry": { "type": "Point", "coordinates": [55.270782, 25.204849] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CICEK SHIPYARD – DENIZ INDUSTRY CO Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.283875, 40.83392] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Engineering Zhuhai Co China" },
+      "geometry": { "type": "Point", "coordinates": [113.57666, 22.270861] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Nanindah Indonesia" },
+      "geometry": { "type": "Point", "coordinates": [103.978218, 1.078421] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Pertama Batam Indonesia" },
+      "geometry": { "type": "Point", "coordinates": [103.89653, 1.097525] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Group Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.832085, 1.293984] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HYUNDAI-SAMHO HEAVY INDUSTRIES CO LTD" },
+      "geometry": { "type": "Point", "coordinates": [126.385719, 34.738068] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Soby Vaerft A/S Denmark shipyards" },
+      "geometry": { "type": "Point", "coordinates": [10.255513, 54.942608] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Egyptian Ship repairs & Building Co. Egypt" },
+      "geometry": { "type": "Point", "coordinates": [29.977289, 31.252907] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bayonne Dry Dock & Repair Corp." },
+      "geometry": { "type": "Point", "coordinates": [-74.084221, 40.667187] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Port Said Shipyard (PSS) Egypt" },
+      "geometry": { "type": "Point", "coordinates": [32.301865, 31.265289] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Rio Nave Serviços Navais Ltda Brazil" },
+      "geometry": { "type": "Point", "coordinates": [-43.22171, -22.875231] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Khulna Shipyard Limited (KSY) Bangladesh" },
+      "geometry": { "type": "Point", "coordinates": [89.575699, 22.783176] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DCD Marine Shipyards South Africa" },
+      "geometry": { "type": "Point", "coordinates": [18.34008, -34.056149] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CANTIERE NAVALE DI AUGUSTA S.r.l.  Italy" },
+      "geometry": { "type": "Point", "coordinates": [15.217559, 37.231815] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SUEZ SHIPYARD COMPANY Egypt" },
+      "geometry": { "type": "Point", "coordinates": [30.802498, 26.820553] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lindenau GmbH Schiffswerft & Maschinenfabrik Shipyard Germany"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.170785, 54.38908] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bason Shipyard Vietnam" },
+      "geometry": { "type": "Point", "coordinates": [106.706741, 10.782617] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Nigerdock Nigeria PLC Shipyard Division" },
+      "geometry": { "type": "Point", "coordinates": [3.334372, 6.424676] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ente Bacini Srl Italy" },
+      "geometry": { "type": "Point", "coordinates": [8.928135, 44.400421] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Istanbul Shipyard Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.276415, 40.833649] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "GMC Maritime Stavanger Norway Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [5.729415, 58.985821] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Kleven Myklebust Verft AS Norway Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [5.585099, 62.23613] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ENVC - Estaleiros Navais de Viana do Castelo Portugal"
+      },
+      "geometry": { "type": "Point", "coordinates": [-8.839767, 41.691074] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Norderwerft Repair GmbH Germany" },
+      "geometry": { "type": "Point", "coordinates": [9.972862, 53.534431] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Helgeland Westcon Yards AS Norway" },
+      "geometry": { "type": "Point", "coordinates": [13.181663, 66.27375] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MMS Ship Repair & Dry Dock Co. Ltd United Kingdom"
+      },
+      "geometry": { "type": "Point", "coordinates": [-0.301431, 53.744637] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Dung Quat Shipbuilding Industry Ltd Vietnam" },
+      "geometry": { "type": "Point", "coordinates": [108.779198, 15.377171] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Drammen Yard Norway" },
+      "geometry": { "type": "Point", "coordinates": [10.23982, 59.730461] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gensan Shipyard Philippines" },
+      "geometry": { "type": "Point", "coordinates": [125.07666, 5.885318] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Fiskerstrand Verft AS Norway" },
+      "geometry": { "type": "Point", "coordinates": [6.275096, 62.441479] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Westcon Yards AS Norway" },
+      "geometry": { "type": "Point", "coordinates": [5.74267, 59.597107] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Olen Westcon Yards AS Norway" },
+      "geometry": { "type": "Point", "coordinates": [5.74267, 59.597107] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Floro Westcon Yards AS Norway" },
+      "geometry": { "type": "Point", "coordinates": [5.048859, 61.600937] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NAVANTIA  Group of Shipyards Spain" },
+      "geometry": { "type": "Point", "coordinates": [-3.681934, 40.43848] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Fuan Matou Shipyard Co.Ltd.  China" },
+      "geometry": { "type": "Point", "coordinates": [118.22142, 27.687685] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Tersan Shipyard Inc Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.455259, 40.687576] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Navantia Reparaciones Cadiz San Fernando Spain"
+      },
+      "geometry": { "type": "Point", "coordinates": [-6.183349, 36.480377] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Navantia Cartagena Dock Spain" },
+      "geometry": { "type": "Point", "coordinates": [-1.00664, 37.592419] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NAVALRIA Shipyard Portugal" },
+      "geometry": { "type": "Point", "coordinates": [-8.653754, 40.640507] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "2×1 Holding Cape Midia Shipyard Romania" },
+      "geometry": { "type": "Point", "coordinates": [28.638191, 44.330589] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Subic Drydock Co. Philippines" },
+      "geometry": { "type": "Point", "coordinates": [120.906097, 14.958349] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saigon Shipbuilding Industry Company Ltd. (SSIC) Vietnam"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.740662, 10.746691] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Herma Shipyard Inc. HSI Philippines" },
+      "geometry": { "type": "Point", "coordinates": [121.038834, 14.633008] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sembcorp Marine Benoi Yard Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.678726, 1.31548] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sembcorp Marine Pandan Yard Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.819839, 1.352083] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sembcorp Marine Tuas Road Yard Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.657928, 1.317127] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Baltic Shipyard Shipbuilding Russia" },
+      "geometry": { "type": "Point", "coordinates": [30.238203, 59.925358] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Piraeus Port Authority S.A. OLP Shipyards Greece"
+      },
+      "geometry": { "type": "Point", "coordinates": [23.646982, 37.942986] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Palumbo Group Sam Monaco" },
+      "geometry": { "type": "Point", "coordinates": [7.426106, 43.741745] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Messina Palumbo SpA" },
+      "geometry": { "type": "Point", "coordinates": [15.563329, 38.184116] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Naples (Palumbo SpA)" },
+      "geometry": { "type": "Point", "coordinates": [14.274121, 40.845406] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "A&P Group Shipyards UK" },
+      "geometry": { "type": "Point", "coordinates": [-1.512889, 54.985081] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CSBC Corporation (China Shipbuilding Corporation) Taiwan"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.360847, 22.555319] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ha Long Shipyard Co.Ltd Vietnam" },
+      "geometry": { "type": "Point", "coordinates": [107.044807, 20.971197] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Astondoa's Yacht's Builders" },
+      "geometry": { "type": "Point", "coordinates": [-0.561244, 38.19656] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HIJOS DE J. BARRERAS Spain Vigo" },
+      "geometry": { "type": "Point", "coordinates": [-8.73326, 42.22744] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CONSTRUCCIONES NAVALES P. FREIRE, S.A." },
+      "geometry": { "type": "Point", "coordinates": [-8.73326, 42.22744] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Astilleros de Mallorca SA" },
+      "geometry": { "type": "Point", "coordinates": [2.65016, 39.569599] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "The Yard Brisbane Australia" },
+      "geometry": { "type": "Point", "coordinates": [153.131638, -27.428892] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ABEKING & RASMUSSEN Germany" },
+      "geometry": { "type": "Point", "coordinates": [8.61769, 53.166115] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Tropical Reef Shipyard Australia" },
+      "geometry": { "type": "Point", "coordinates": [145.778229, -16.939966] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ALU MARINE France" },
+      "geometry": { "type": "Point", "coordinates": [-1.744375, 47.207439] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Newport Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-71.320717, 41.48996] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "JSC Admiralteiskie Verfi Russia Petersburg" },
+      "geometry": { "type": "Point", "coordinates": [30.325535, 59.925991] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ALMAZ Shipbuilding Company Russia Saint-Petersburg"
+      },
+      "geometry": { "type": "Point", "coordinates": [30.265556, 59.959442] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Astillero Nacional, S.A. Panama" },
+      "geometry": { "type": "Point", "coordinates": [-79.701988, 8.914909] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASENAV - Astilleros y Servicios Navales S.A Chile"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.226265, -39.816196] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Amels Holland" },
+      "geometry": { "type": "Point", "coordinates": [3.58432, 51.442394] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gondan Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-7.031152, 43.528172] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Bath Iron Works General Dynamics USA" },
+      "geometry": { "type": "Point", "coordinates": [-69.815056, 43.909794] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Baja Naval S.A. de C.V. Mexico" },
+      "geometry": { "type": "Point", "coordinates": [-116.625206, 31.860371] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Breko Shipbuilding & Repair The Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [4.72034, 51.824993] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Caddell Dry Dock and Repair Co., Inc." },
+      "geometry": { "type": "Point", "coordinates": [-74.118149, 40.641445] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Piriou Naval Services" },
+      "geometry": { "type": "Point", "coordinates": [-3.920734, 47.872833] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Seatech Engineering" },
+      "geometry": { "type": "Point", "coordinates": [18.646423, 54.349255] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Scheepswerf Bocxe BV The Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [4.380616, 51.980152] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Barkmeijer Stroobos BV The Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [6.211693, 53.237911] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Schiffswerft Hermann Barthel GmbH Germany" },
+      "geometry": { "type": "Point", "coordinates": [11.996048, 52.423347] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PIRIOU GROUP HEADQUARTERS" },
+      "geometry": { "type": "Point", "coordinates": [-3.920734, 47.872833] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scheepswerf L.J. Boer Sliedrecht BV  The Netherlands"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.764651, 51.817856] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Cassens Werft GmbH" },
+      "geometry": { "type": "Point", "coordinates": [7.172123, 53.364731] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CHANTIERS PIRIOU" },
+      "geometry": { "type": "Point", "coordinates": [-3.920734, 47.872833] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gebroeders Buijs Scheepsbouw BV" },
+      "geometry": { "type": "Point", "coordinates": [4.579436, 51.911175] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Burger Boat Company" },
+      "geometry": { "type": "Point", "coordinates": [-87.671211, 44.09866] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Piriou Vietnam" },
+      "geometry": { "type": "Point", "coordinates": [106.766327, 10.673613] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "VIGOR Industrial Evolution USA" },
+      "geometry": { "type": "Point", "coordinates": [-122.720871, 45.565517] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ateliers Normand" },
+      "geometry": { "type": "Point", "coordinates": [-3.370562, 47.735264] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chengxi Shipyard (Xinrong) China" },
+      "geometry": { "type": "Point", "coordinates": [120.274544, 32.014938] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CMN Cherbourg France" },
+      "geometry": { "type": "Point", "coordinates": [-1.605026, 49.641792] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Privinvest Holding Group" },
+      "geometry": { "type": "Point", "coordinates": [35.505451, 33.89851] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CSC Croatian Shipbuilding Industry" },
+      "geometry": { "type": "Point", "coordinates": [15.979541, 45.774307] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "American Samoa Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-170.132217, -14.270972] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "STX Offshore & Shipbuilding Co., Ltd" },
+      "geometry": { "type": "Point", "coordinates": [128.710037, 35.133026] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ULJANIK JSC Croatia" },
+      "geometry": { "type": "Point", "coordinates": [13.842434, 44.868317] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DAKOTA CREEK INDUSTRIES" },
+      "geometry": { "type": "Point", "coordinates": [-122.61058, 48.519314] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DAE SUN Shipbuilding & Engineering Co., Ltd" },
+      "geometry": { "type": "Point", "coordinates": [129.068146, 35.091232] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HAT-SAN Shipyard Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.502069, 40.721729] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gulf Copper Dry Dock & Repair Galveston" },
+      "geometry": { "type": "Point", "coordinates": [-94.7995, 29.312899] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gulf Copper - Central Yard Port Arthur" },
+      "geometry": { "type": "Point", "coordinates": [-93.889175, 29.91906] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "UK Docks Tyneside" },
+      "geometry": { "type": "Point", "coordinates": [-1.426675, 55.006191] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Swansea Drydocks" },
+      "geometry": { "type": "Point", "coordinates": [-3.923749, 51.611485] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Dunston (Ship Repairs) Limited" },
+      "geometry": { "type": "Point", "coordinates": [-0.362817, 53.729717] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "UK Docks Wearside" },
+      "geometry": { "type": "Point", "coordinates": [-1.361318, 54.912376] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "UK Docks Whitehaven" },
+      "geometry": { "type": "Point", "coordinates": [-3.589762, 54.552792] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Feadship" },
+      "geometry": { "type": "Point", "coordinates": [4.611367, 52.36425] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "UK Docks Teesside" },
+      "geometry": { "type": "Point", "coordinates": [-1.18992, 54.583046] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "UK Docks Gosport" },
+      "geometry": { "type": "Point", "coordinates": [-1.117554, 50.795448] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Foss Seattle Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-122.366173, 47.653637] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Scheepswerf Ferus Smit B.V." },
+      "geometry": { "type": "Point", "coordinates": [6.698678, 53.173683] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flensburger Schiffbau-Gesellschaft mbH & Co. KG"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.431711, 54.80648] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ferretti S.p.A." },
+      "geometry": { "type": "Point", "coordinates": [12.104106, 44.210155] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gebr. Friedrich GmbH & Co. KG" },
+      "geometry": { "type": "Point", "coordinates": [10.165486, 54.386906] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Montmontaza Greben Ltd. Croatia" },
+      "geometry": { "type": "Point", "coordinates": [17.134232, 42.958405] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Van Grevenstein’s Scheepswerf b.v." },
+      "geometry": { "type": "Point", "coordinates": [4.592067, 51.902985] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Royal Bodewes  The Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [6.739872, 53.165375] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "3 MAJ SHIPYARD LTD" },
+      "geometry": { "type": "Point", "coordinates": [14.391966, 45.339462] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "FAMA GROUP OF COMPANIES" },
+      "geometry": { "type": "Point", "coordinates": [33.016811, 34.663456] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TUZLA SHIPYARD ERKAL Uluslararası Nakliyat Turkey"
+      },
+      "geometry": { "type": "Point", "coordinates": [29.267626, 40.839657] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Besiktas Group Shipyard Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.510109, 40.696644] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Pacific Shipyards International, LLC Hawaii" },
+      "geometry": { "type": "Point", "coordinates": [-157.882721, 21.318197] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Navalrocha SA Shipyard Portugal" },
+      "geometry": { "type": "Point", "coordinates": [-9.139337, 38.722252] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jinhai Shipyard Daishan Changtu Zhoushan China"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.304749, 30.25156] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "GEMAK TGE SHIPYARD Tuzla Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.292078, 40.842365] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "UK Docks" },
+      "geometry": { "type": "Point", "coordinates": [-1.361318, 54.912376] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Shipyard Famagusta Ltd, Cyprus" },
+      "geometry": { "type": "Point", "coordinates": [33.934582, 35.133198] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASMAR ASTILLERO DE TALCAHUANO Chile" },
+      "geometry": { "type": "Point", "coordinates": [-73.104103, -36.691887] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Zamakona Pasaia Shipyard Spain" },
+      "geometry": { "type": "Point", "coordinates": [-1.911503, 43.324066] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Desan Shipyards Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.270576, 40.835804] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ZAMAKONA YARDS GROUP" },
+      "geometry": { "type": "Point", "coordinates": [-3.052612, 43.332291] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TK Tuzla Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [29.267626, 40.839657] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Fujian Huadong Shipyard China" },
+      "geometry": { "type": "Point", "coordinates": [119.445999, 26.496] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HSD Marine and Shiprepair Pte Ltd" },
+      "geometry": { "type": "Point", "coordinates": [103.703659, 1.333312] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DAEHAN SHIPBUILDING CO LTD Hae-Nam Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [126.59893, 34.573254] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "GMD Shipyard Corp" },
+      "geometry": { "type": "Point", "coordinates": [-73.977768, 40.698471] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sefine Shipyard Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.504595, 40.723885] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Estaleiro Jurong Aracruz Brazil" },
+      "geometry": { "type": "Point", "coordinates": [-40.267048, -19.82443] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Adriatic Shipyard Bijela Serbia - Montenegro" },
+      "geometry": { "type": "Point", "coordinates": [18.644283, 42.457348] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Kuzey Star Shipyard Tuzla" },
+      "geometry": { "type": "Point", "coordinates": [29.267229, 40.84005] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Taylor Smith Group Mauritius" },
+      "geometry": { "type": "Point", "coordinates": [57.49741, -20.15587] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shipyard Royal Niestern Sander  The Netherlands"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.915255, 53.317127] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Keppel Shipyard Limited  (Singapore Tuas Yard)"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.655449, 1.300373] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Keppel Shipyard Limited  (Singapore Benoi Yard)"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.677521, 1.299958] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Keppel Shipyard  (Singapore Gul Yard)" },
+      "geometry": { "type": "Point", "coordinates": [103.671982, 1.294774] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Nuova Meccanica Navale Vigliena Shipyard Carmine Pier"
+      },
+      "geometry": { "type": "Point", "coordinates": [14.292972, 40.839737] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MEYER WERFT Papenburg Germany" },
+      "geometry": { "type": "Point", "coordinates": [7.423268, 53.072613] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Remontowa Gdansk Shiprepair Yard S.A. Poland" },
+      "geometry": { "type": "Point", "coordinates": [18.662834, 54.369637] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "D.K.FOTINAKIS LTD GENERAL SHIP REPAIRS" },
+      "geometry": { "type": "Point", "coordinates": [23.646982, 37.942986] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "A&P Group TYNE Shipyard England" },
+      "geometry": { "type": "Point", "coordinates": [-1.52199, 54.972282] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Damen Shiprepair Harlingen The Netherlands Shipyards"
+      },
+      "geometry": { "type": "Point", "coordinates": [5.430115, 53.189835] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shipyards Group" },
+      "geometry": { "type": "Point", "coordinates": [4.383488, 51.90472] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DAEWOO Mangalia Heavy Industry DSME Shipbuildng Romania"
+      },
+      "geometry": { "type": "Point", "coordinates": [28.581549, 43.816643] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CARENA Shipyard Abidjan Ship Repairs" },
+      "geometry": { "type": "Point", "coordinates": [-4.008256, 5.359952] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "China Merchants Group (CMG)" },
+      "geometry": { "type": "Point", "coordinates": [114.093208, 22.338976] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "GERMAN NAVAL YARDS Kiel GmbH" },
+      "geometry": { "type": "Point", "coordinates": [10.150855, 54.316544] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Joseph Industrial Shipyard & Drydock" },
+      "geometry": { "type": "Point", "coordinates": [-69.825539, 18.489347] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NEPTUN SERVICES UAB" },
+      "geometry": { "type": "Point", "coordinates": [21.157675, 55.713093] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MWB MOTORENWERKE BREMERHAVEN AG Germany" },
+      "geometry": { "type": "Point", "coordinates": [8.580942, 53.539585] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chantier Naval de l'Océan Indien Ltd" },
+      "geometry": { "type": "Point", "coordinates": [57.498089, -20.146288] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTILLEROS DE GUINEA ECUATORIAL S.A  ASABA" },
+      "geometry": { "type": "Point", "coordinates": [8.782134, 3.754961] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nakilat Keppel Offshore & Marine (N-KOM) Qatar"
+      },
+      "geometry": { "type": "Point", "coordinates": [51.494804, 25.268642] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Zhoushan Longshan Shipyard Co" },
+      "geometry": { "type": "Point", "coordinates": [122.178238, 29.654518] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Zhoushan Longshan Shipyard Co., Ltd" },
+      "geometry": { "type": "Point", "coordinates": [122.078941, 29.772579] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elefsis Shipbuilding & Industrial Enerprises S.A Greece"
+      },
+      "geometry": { "type": "Point", "coordinates": [23.54427, 38.037529] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CERENAV SHIPYARD PEMEX LOGISTICA" },
+      "geometry": { "type": "Point", "coordinates": [-97.815041, 22.267859] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Fr. Lurssen Werft GmbH & Co. KG" },
+      "geometry": { "type": "Point", "coordinates": [8.62471, 53.16769] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Neue Jadewerft GmbH" },
+      "geometry": { "type": "Point", "coordinates": [8.147417, 53.52319] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Lurssen Lemwerder Yachts" },
+      "geometry": { "type": "Point", "coordinates": [8.615232, 53.1623] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SAMSUNG HEAVY INDUSTRIES  Geoje Shipyard South Korea"
+      },
+      "geometry": { "type": "Point", "coordinates": [128.609802, 34.896366] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "JONG SHYN SHIPBUILDING CO. LTD" },
+      "geometry": { "type": "Point", "coordinates": [120.295639, 22.577995] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TSUNEISHI HEAVY INDUSTRIES Cebu In. Philippines"
+      },
+      "geometry": { "type": "Point", "coordinates": [123.712654, 10.459305] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "TSUNEISHI GROUP (ZHOUSHAN) SHIIPBUILDING INC" },
+      "geometry": { "type": "Point", "coordinates": [122.162712, 30.151014] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BAKU SHIPYARD LLC" },
+      "geometry": { "type": "Point", "coordinates": [49.783997, 40.305016] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "GARDEC SDS n.v." },
+      "geometry": { "type": "Point", "coordinates": [3.204292, 51.322609] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PORT SERVICE BVBA" },
+      "geometry": { "type": "Point", "coordinates": [3.72503, 51.077858] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "INDUSTRIAS ASTIVIK S.A. Colombia Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-75.505547, 10.332783] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Hamilton Shipyard Canada" },
+      "geometry": { "type": "Point", "coordinates": [-79.838036, 43.271008] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Port Weller Dry Docks Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-79.208687, 43.216129] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Thunder Bay Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-89.177757, 48.455399] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Mount Pearl" },
+      "geometry": { "type": "Point", "coordinates": [-52.841919, 47.515724] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sydport" },
+      "geometry": { "type": "Point", "coordinates": [-60.223499, 46.157135] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Heddle Shipyards Canada" },
+      "geometry": { "type": "Point", "coordinates": [-79.838036, 43.271008] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Fraser Shipyard & Industrial Centre Ltd" },
+      "geometry": { "type": "Point", "coordinates": [-122.99102, 49.163742] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CL Marine Ltd (CLM) Caribbean Dockyard & Engineering Services Limited (CDESL)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-61.634083, 10.68251] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Maritime Preservation Limited" },
+      "geometry": { "type": "Point", "coordinates": [-61.512211, 10.654927] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Aecon Pictou Shipyard)" },
+      "geometry": { "type": "Point", "coordinates": [-62.701218, 45.678337] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HANJIN HEAVY INDUSTRIES & CONSTRUCTION CO LTD"
+      },
+      "geometry": { "type": "Point", "coordinates": [129.05275, 35.09523] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Onomichi Colombo Dockyard PLC. Sri Lanka" },
+      "geometry": { "type": "Point", "coordinates": [79.871681, 6.970197] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Zhoushan Huafeng Shipyard Co. Ltd China" },
+      "geometry": { "type": "Point", "coordinates": [122.170219, 30.06805] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ABU DHABI SHIP BUILDING (ADSB)" },
+      "geometry": { "type": "Point", "coordinates": [54.492241, 24.35914] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Art Shipyard Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.268351, 40.839516] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CUD WEIHAI SHIPYARD CO.,LTD" },
+      "geometry": { "type": "Point", "coordinates": [122.19709, 36.84639] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Yeosu Ocean Co Ltd Korea" },
+      "geometry": { "type": "Point", "coordinates": [127.662224, 34.760372] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sanmar Shipyard Tuzla" },
+      "geometry": { "type": "Point", "coordinates": [29.289597, 40.854012] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sanmar Shipyards Altınova" },
+      "geometry": { "type": "Point", "coordinates": [29.47542, 40.712784] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Atsalakis Shipyard Greece" },
+      "geometry": { "type": "Point", "coordinates": [23.565365, 37.96336] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "﻿DAEWOO SHIPBUILDING & MARINE ENGINEERING CO., LTD. (DSME)"
+      },
+      "geometry": { "type": "Point", "coordinates": [128.713211, 34.902885] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "EBH Elgin Brown and Hamer CAPE TOWN" },
+      "geometry": { "type": "Point", "coordinates": [18.424055, -33.92487] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "FINCANTIERI - GENOVA - ITALY" },
+      "geometry": { "type": "Point", "coordinates": [8.843358, 44.423805] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FINCANTIERI - CANTIERI NAVALI S.P.A. (FINCANTIERI PALERMO SHIPYARD) Italy"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.367122, 38.137653] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "FINCANTIERI Muggiano Shipyard- ITALY" },
+      "geometry": { "type": "Point", "coordinates": [9.879567, 44.089062] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SASEBO HEAVY INDUSTRIES CO. LTD. - JAPAN" },
+      "geometry": { "type": "Point", "coordinates": [129.733582, 33.210846] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SEASPAN Vancouver Shipyards Canada" },
+      "geometry": { "type": "Point", "coordinates": [-123.107483, 49.312378] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SEASPAN VANCOUVER DRYDOCK CO. LTD" },
+      "geometry": { "type": "Point", "coordinates": [-123.075775, 49.30843] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BABCOCK FITZROY SHIPYARD - NEW ZEALAND" },
+      "geometry": { "type": "Point", "coordinates": [174.790924, -36.830647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Talleres Navales del Golfo, S.A. de C.V Mexico shipyards."
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.131378, 19.209604] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sembcorp Marine Jurong Shipyard Pte Ltd. Singapore"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.704041, 1.303828] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PT Karimun Sembawang Shipyard, Indonesia" },
+      "geometry": { "type": "Point", "coordinates": [103.429504, 0.995919] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "INTERNATIONAL SHIP REPAIR  & MARINE SERVICES Tampa Florida USA"
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.441162, 27.954348] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Atlantico Sul Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [-34.965668, -8.372174] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhoushan Changhong International Shipyard Co.Ltd China"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.026184, 30.14045] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Netaman Repair Group" },
+      "geometry": { "type": "Point", "coordinates": [24.703621, 59.455257] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Western Shiprepair Klaipeda Lithuania - BLRT GRUPP"
+      },
+      "geometry": { "type": "Point", "coordinates": [21.165895, 55.653736] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "BLRT GRUPP Estonia" },
+      "geometry": { "type": "Point", "coordinates": [24.664322, 59.461033] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Turku Repair Yard  Finland BLRT GRUPP" },
+      "geometry": { "type": "Point", "coordinates": [22.023478, 60.450359] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "OCEA S.A." },
+      "geometry": { "type": "Point", "coordinates": [-1.792687, 46.500256] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NOSCO Shipyard JSC" },
+      "geometry": { "type": "Point", "coordinates": [106.847336, 20.834732] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sapor Shipyard Sdn Bhd (SSY)  Malaysia" },
+      "geometry": { "type": "Point", "coordinates": [111.860451, 2.389339] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Berjaya Dockyard (Sibu) Sdn. Bhd." },
+      "geometry": { "type": "Point", "coordinates": [110.359215, 1.553278] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Weldan Marine Servies Sdn. Bhd" },
+      "geometry": { "type": "Point", "coordinates": [118.11451, 5.838381] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Muhibbah Marine Engineering Sdn. Bhd MALAYSIA"
+      },
+      "geometry": { "type": "Point", "coordinates": [101.347397, 2.894911] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Labuan Shipyard & Engineering Sdn Bhd" },
+      "geometry": { "type": "Point", "coordinates": [115.235077, 5.269207] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PT. Sarana Bahtera Shipyard" },
+      "geometry": { "type": "Point", "coordinates": [106.835754, -6.145846] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MALAYSIA MARINE AND HEAVY ENGINEERING Sdn MMHE"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.933266, 1.448772] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ARAB SHIPBUILDING & REPAIR COMPANY ASRY" },
+      "geometry": { "type": "Point", "coordinates": [50.652031, 26.234062] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DAKARNAVE SHIPYARD Dakar SENEGAL" },
+      "geometry": { "type": "Point", "coordinates": [-17.437569, 14.689124] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FINCANTIERI - TRIESTE (FINCANTIERI TRIESTE SHIPYARD) - ITALY"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.761733, 45.638866] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "GIBDOCK SHIPREPAIRS GIBRALTAR" },
+      "geometry": { "type": "Point", "coordinates": [-5.353585, 36.140751] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CDC Caribbean Drydock Company S.A. Cuba" },
+      "geometry": { "type": "Point", "coordinates": [-82.3321, 23.146622] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Palumbo Malta Shipyard Ltd." },
+      "geometry": { "type": "Point", "coordinates": [14.510184, 35.882107] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Damen Shiprepair Netherlands" },
+      "geometry": { "type": "Point", "coordinates": [2.374941, 51.025795] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ROG Ship Repair BV" },
+      "geometry": { "type": "Point", "coordinates": [4.450222, 51.882507] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Southern African Shipyards" },
+      "geometry": { "type": "Point", "coordinates": [31.004391, -29.892517] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dalian Shipbuilding Industry"
+      },
+      "geometry": { "type": "Point", "coordinates": [121.651161, 39.074741] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ONEX SYROS SHIPYARDS SA ex Neorion Shipyard Holdings S.A Syros Greece"
+      },
+      "geometry": { "type": "Point", "coordinates": [24.937798, 37.439682] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Keppel Offshore & Marine" },
+      "geometry": { "type": "Point", "coordinates": [103.655449, 1.300373] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhoushan Nanyang Star ShipBuilding Co. Ltd. NASCO"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.207779, 29.98539] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Riga Shipyard Latvia Riga" },
+      "geometry": { "type": "Point", "coordinates": [24.117134, 57.027115] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "DRYDOCKS WORLD - DUBAI SHIPYARD" },
+      "geometry": { "type": "Point", "coordinates": [55.270782, 25.204849] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CHALKIS SHIPYARDS S.A. Greece" },
+      "geometry": { "type": "Point", "coordinates": [23.593, 38.440971] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Hudong-Zhonghua Shipbuilding China" },
+      "geometry": { "type": "Point", "coordinates": [121.57608, 31.273081] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LISNAVE ESTALEIROS NAVAIS S.A MITRENA YARD Portugal"
+      },
+      "geometry": { "type": "Point", "coordinates": [-8.890933, 38.526043] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SAN GIORGIO DEL PORTO S.p.A Italy" },
+      "geometry": { "type": "Point", "coordinates": [8.925591, 44.406136] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Spanopoulos Group Shipyard Greece" },
+      "geometry": { "type": "Point", "coordinates": [23.528023, 37.951057] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chantier Naval de Marseille France" },
+      "geometry": { "type": "Point", "coordinates": [5.334425, 43.358242] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Chantier Naval de Marseille France" },
+      "geometry": { "type": "Point", "coordinates": [5.334425, 43.358242] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sedef Ship Building Shipyard Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.289684, 40.84034] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ruitai Nantong Shipyard Co.Ltd China" },
+      "geometry": { "type": "Point", "coordinates": [120.882385, 32.016186] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhoushan Putuo Changhong International Shipyard Co Ltd China"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.018204, 30.12524] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Zhoushan China" },
+      "geometry": { "type": "Point", "coordinates": [122.037262, 30.176029] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "PaxOcean Graha Batam Indonesia" },
+      "geometry": { "type": "Point", "coordinates": [103.91877, 1.065637] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ASTILLERO PUERTO DE BALBOA Panama" },
+      "geometry": { "type": "Point", "coordinates": [-79.563049, 8.954286] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West SEA Viana Shipyard Viana Do Castelo Portugal"
+      },
+      "geometry": { "type": "Point", "coordinates": [-8.839767, 41.691074] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CHENGXI SHIPYARD CO. JIANGYIN China" },
+      "geometry": { "type": "Point", "coordinates": [113.644402, 22.68582] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unithai Shipyard and Engineering Limited THAILAND"
+      },
+      "geometry": { "type": "Point", "coordinates": [101.016319, 13.079904] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Dormac Marine & Engineering Ltd Durban" },
+      "geometry": { "type": "Point", "coordinates": [30.999327, -29.888636] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MEC Balboa Dry Docks Panama" },
+      "geometry": { "type": "Point", "coordinates": [-79.563156, 8.961396] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "NAUTA SHIPREPAIR YARD Poland" },
+      "geometry": { "type": "Point", "coordinates": [18.515619, 54.534721] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EDR Antwerp Shipyard Engine Deck Repair Belgium"
+      },
+      "geometry": { "type": "Point", "coordinates": [4.348715, 51.252777] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "CASSAR SHIP REPAIR LTD MALTA" },
+      "geometry": { "type": "Point", "coordinates": [14.492712, 35.873581] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "HAT-SAN Shipyard Yalova Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.482637, 40.719517] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Ozata Shipyard Yalova Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.482462, 40.718704] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "SELTAS Shipyard Yalova Turkey" },
+      "geometry": { "type": "Point", "coordinates": [29.504595, 40.723885] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "MHI Yokohama Dockyard Japan" },
+      "geometry": { "type": "Point", "coordinates": [139.67305, 35.417271] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Sembcorp Marine Corporation Singapore" },
+      "geometry": { "type": "Point", "coordinates": [103.704041, 1.303828] }
+    }
+  ]
+}

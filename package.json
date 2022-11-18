@@ -1,6 +1,6 @@
 {
   "name": "public-geojson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "geojson api",
   "main": "src/index.js",
   "scripts": {
